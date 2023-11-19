@@ -1,0 +1,55 @@
+title: Reviews
+subtitle: They say…
+bg: boda-charo-agustin.jpg
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Ana and Juanma
+    description: |
+      We're getting married, but that's not all, we're getting married in 4 months! And where do we start? Flowers? invitations? decorations? ...?
+
+      Faced with this scenario we decided to contact Esperanza, and from the first meeting we had with her everything flowed.
+
+      We had some ideas for that day, but Esperanza helped us to make them concrete and materialize them, to make them come true.
+
+      Also, counting on her gave us a lot of peace of mind during those months of nerves, because we were sure that with the passion she puts into her work, everything was going to turn out well.
+
+      We find it incredible how beautiful everything turned out, and we know that without Esperanza's "trajín" it would not have been possible. Thank you very much.
+  - title: María D.
+    description: |
+      I can't thank you enough for EVERYTHING Esperanza and her team did, from the choice of suppliers, design, ideas, advice, organization…
+
+      Our wedding was a real festival, what we had always dreamed of!
+
+      Professional, committed, and an incredible problem solving ability!
+
+      Without a doubt the best choice to count on Puro Trajin for our day!
+  - title: Yolanda M.
+    description: |
+      We got married in November, and it was wonderful to have Esperanza, she couldn't love her work more and it shows.
+
+      She is a person willing to do anything, with a great imagination.
+
+      On our wedding day we were able to enjoy our wedding day knowing that Esperanza was taking care of everything.
+
+      Thank you Esperanza for helping us and taking care of us too. We would definitely choose you again.
+  - title: Pedro J.
+    description: |
+      We trusted PuroTrajín to design our wedding (flowers, photocall, sweet table, interior decoration…) and everything turned out wonderfully perfect.
+
+      In addition, Esperanza was always very attentive, solving all our doubts and requests.
+  - title: Lalyly
+    description: |
+      Spectacular, exquisite work, very detailed and very elegant, she knows how to capture and fully capture the taste and choice of the client.
+- type: columns
+  items:
+  - description: |
+      There's more here! Add yours!
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/r/CQrgNBs-RR8GEAI/review "noindex")
+      [btn icon-star Facebook](https://www.facebook.com/purotrajin/reviews/ "noindex")

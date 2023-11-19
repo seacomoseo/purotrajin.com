@@ -1,0 +1,55 @@
+title: Reseñas
+subtitle: Dicen por ahí…
+bg: boda-charo-agustin.jpg
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Ana y Juanma
+    description: |
+      ¡Nos casamos!, pero eso no es todo, ¡nos casamos dentro de 4 meses! Y, ¿por dónde empezamos? ¿Flores? ¿Invitaciones? ¿Decoración? …
+
+      Ante este panorama decidimos ponernos en contacto con Esperanza, y desde la primera reunión que tuvimos con ella todo fluyó.
+
+      Nosotros teníamos algunas ideas para ese día, pero Esperanza nos ayudó a concretarlas y a materializarlas, a hacerlas realidad.
+
+      Además, contar con ella nos dio mucha tranquilidad en esos meses de nervios, pues teníamos la certeza de que con la pasión que le pone a su trabajo todo iba a salir bien.
+
+      Nos parece increíble lo bonito que quedó todo, y sabemos que sin el "trajín" de Esperanza no hubiese sido posible. Mil gracias.
+  - title: María D.
+    description: |
+      No tengo palabras para agradecer TODO lo Esperanza y su equipo hicieron, desde la elección de proveedores, diseño, ideas, consejos, organización…
+
+      Nuestra boda fue un auténtico festival, ¡lo que siempre habíamos soñado!
+
+      Profesionales, comprometidos, ¡y una capacidad de resolver problemas increíble!
+
+      ¡Sin duda la mejor elección contar con Puro Trajin en nuestro día!
+  - title: Yolanda M.
+    description: |
+      Nos casamos en Noviembre, y fue una maravilla contar con Esperanza, no le puede gustar más su trabajo y eso se nota.
+
+      Es una persona dispuesta a todo, con una gran imaginación.
+
+      El día de nuestra boda pudimos disfrutar tranquilos sabiendo qué Esperanza se estaba encargando de todo.
+
+      Gracias Esperanza por ayudarnos y cuidarnos también. Sin duda, volveríamos a elegirte.
+  - title: Pedro J.
+    description: |
+      Confiamos en PuroTrajín para diseñar nuestra boda (flores, photocall, mesa dulce, decoración interior…) y quedó todo maravillosamente perfecto.
+
+      Además, Esperanza estuvo siempre muy atenta, resolviendo todas nuestras dudas y peticiones.
+  - title: Lalyly
+    description: |
+      Espectacular, un trabajo exquisito, mucho detalle y muy elegante, sabe captar y plasmar totalmente el gusto y la elección del cliente.
+- type: columns
+  items:
+  - description: |
+      ¡Hay más aquí! ¡Añade la tuya!
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/r/CQrgNBs-RR8GEAI/review "noindex")
+      [btn icon-star Facebook](https://www.facebook.com/purotrajin/reviews/ "noindex")

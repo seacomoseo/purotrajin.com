@@ -1,0 +1,54 @@
+title: Fotos
+color: link
+bg: ''
+rows:
+- type: gallery
+  design:
+    max: 99
+    num: 3
+    alt: true
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - boda-charo-agustin.jpg
+  - boda-chicas-puro-trajin-1.jpg
+  - boda-chicas-puro-trajin-2.jpg
+  - boda-chicas-puro-trajin-3.jpg
+  - boda-chicas-puro-trajin-4.jpg
+  - boda-chicas-puro-trajin-5.jpg
+  - boda-chicas-puro-trajin-6.jpg
+  - boda-chicas-puro-trajin-7.jpg
+  - boda-chicas-puro-trajin-8.jpg
+  - boda-chicas-puro-trajin-9.jpg
+  - boda-mado-3.jpg
+  - boda-puro-trajin-1.jpg
+  - boda-puro-trajin-3.jpg
+  - boda-puro-trajin-10.jpg
+  - decoracion-boda-perros-puro-trajin-1.jpg
+  - decoracion-boda-perros-puro-trajin-2.jpg
+  - decoracion-boda-puro-trajin-1.jpg
+  - decoracion-boda-puro-trajin-2.jpg
+  - decoracion-bodas-castillico-puro-trajin-1.jpg
+  - decoracion-bodas-castillico-puro-trajin-30.jpg
+  - decoracion-bodas-castillico-puro-trajin-62.jpg
+  - decoracion-bodas-castillico-puro-trajin-92.jpg
+  - decoracion-bodas-castillico-puro-trajin-101.jpg
+  - decoracion-bodas-castillico-puro-trajin-131.jpg
+  - decoracion-bodas-castillico-puro-trajin.jpg
+  - decoracion-entrada-iglesia.jpg
+  - evento-marinacampoy-936.jpg
+  - evento-marinacampoy-943.jpg
+  - evento-marinacampoy-1052.jpg
+  - evento-marinacampoy-1072.jpg
+  - evento-marinacampoy-1124.jpg
+  - evento-marinacampoy-1135.jpg
+  - evento-marinacampoy-1207.jpg
+  - fondo.jpg
+  - tarta-bodas.jpg
+  - trajinanta-2.jpg
+  - trajinanta-decoracion-bodas-castillico-puro-trajin-72.jpg
+  - trajinanta-evento-marinacampoy-472.jpg
+  - trajinanta-evento-marinacampoy-1047.jpg
+  - trajinanta-evento-marinacampoy-1172.jpg

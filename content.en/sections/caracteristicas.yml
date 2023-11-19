@@ -1,0 +1,33 @@
+anchor: Features
+# subtitle: Do you want trajín?
+rows:
+- type: columns
+  design:
+    num_xs: true
+    uppercase: false
+    underline: true
+  items:
+  - icon: rings-wedding
+    description: |
+      We design your wedding from start to finish
+      {.h6 .underline}
+
+      We take care of every detail so you can have the wedding of your dreams.
+  - icon: handshake-angle
+    description: |
+      We accompany you throughout the whole process
+      {.h6 .underline}
+
+      We are with you every step of the way to make your experience easy and worry-free.
+  - icon: heart
+    description: |
+      Full confidence
+      {.h6 .underline}
+
+      Our commitment is to offer you a quality service and to make you feel safe and at ease at all times.
+  - icon: champagne-glasses
+    description: |
+      You will enjoy the moments before the wedding
+      {.h6 .underline}
+
+      Let us take care of the preparations and spend your time enjoying the excitement leading up to the big day.

@@ -1,0 +1,25 @@
+id: trajinanta
+title: The Trajinanta
+subtitle: Who is behind
+bg: trajinanta-2.jpg
+rows:
+- type: columns
+  design:
+    num: 2
+    uppercase: false
+    underline: true
+    align_y: center
+    ratio: 16x9
+  items:
+  - order: 2
+    image: trajinanta.jpg
+  - order: 1
+    description: |
+      My name is Esperanza, and as I always say, I am a trajinanta by birth, who moves heaven and earth until I get the perfect trajin.
+
+      I graduated in business studies when I still didn't know that the creative world existed, until I started to discover the world of events and decoration. I have been training in different expert courses in organization and more specifically in decoration for events.
+
+      I define myself as a constant person, sensitive and intense at the same time, who empathizes and knows how to capture the essence of people, staying true to myself and my style.
+    more:
+      align_xl: right
+      align: left

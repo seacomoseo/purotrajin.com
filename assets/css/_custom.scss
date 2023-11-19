@@ -1,0 +1,82 @@
+
+.sign {
+  {{ partial "functions/svg-to-css" (dict "path" "/assets/media/sign-circle.svg" "Site" .Site) }}
+}
+
+// Header
+
+#body-home #header,
+#body-inicio #header {
+  .image,
+  .image__inner {
+    overflow: visible;
+  }
+  .image {
+    g {
+      fill: var(--text);
+    }
+  }
+  .description {
+    margin: 1em;
+  }
+  // Header Animations
+  @mixin show-up($delay) {
+    animation: show-up .5s (2.5s + $delay * .125s) both;
+  }
+  // .image__inner {                    @include show-up(0); }
+  // .h1 {                                 @include show-up(1); }
+  .description {
+    p:nth-child(1) { @include show-up(1); }
+    p:nth-child(2) { @include show-up(2); }
+    p:nth-child(3) { @include show-up(3); }
+    p:nth-child(4) { @include show-up(4); }
+  }
+}
+
+
+// Contact
+
+.contact__whatsapp {
+  --link: var(--link);
+  svg {
+    color: #25d366;
+  }
+}
+/*! purgecss start ignore */
+[href="#encuesta"] {
+  font-size: .8em;
+}
+.encuesta-activa {
+  #encuesta,
+  ~ .contact__form-item {
+    display: none;
+  }
+}
+/*! purgecss end ignore */
+
+
+// Survey
+
+.contact__form-description {
+  color: var(--title);
+  margin: 1em 0 0;
+  font-size: 1.25em;
+  width: auto;
+}
+
+
+// Logo in Articles
+
+.logo__titles {
+  display: flex;
+  align-items: baseline;
+  gap: 1em;
+}
+.logo__title {
+  margin: 0;
+  font-size: 1.75em;
+}
+.logo__subtitle {
+  @include font-cursive;
+  font-size: 2em;
+}

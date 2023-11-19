@@ -1,0 +1,51 @@
+baseURL: https://purotrajin.com
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://gitlab.com/purotrajin/purotrajin.com
+  netlify_name: purotrajin
+  netlify_id: a63fd53f-67f0-4b0d-a049-c5d149084b7c
+  drive_link: https://drive.google.com/file/d/1SsWkE8eIJwkhmsZNNsJ5WyUXCzD7ST4E
+  drive_mails: espejumping@gmail.com
+defaultContentLanguage: es
+disableLanguages: []
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores
+  en:
+    paginatePath: page
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: event/:year/:month/:day/:slug
+        products: product/:slug
+        categories: category/:slug
+        tags: tag/:slug
+        authors: author/:slug
+      section:
+        pages: pages
+        blog: blog
+        events: events
+        products: products
+        categories: categories
+        tags: tags
+        authors: authors

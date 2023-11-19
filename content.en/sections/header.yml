@@ -1,0 +1,19 @@
+anchor: Event and Wedding Planner
+color: dark
+image: logo-animation.svg
+bg: wedding-planner.mp4
+description: |
+  Specialized in design and decoration of weddings and unique events
+
+  **by Esperanza Gómez**
+
+  Do you want trajín?
+  {.subtitle}
+
+  [btn icon-play Video](https://youtu.be/ugBd4Kh8ADA)
+  [btn icon-plus More](#main)
+more:
+  image_min: 18
+  image_max: 18
+  opacity: 30
+  parallax: true

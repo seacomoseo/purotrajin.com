@@ -1,0 +1,33 @@
+anchor: Características
+# subtitle: ¿Quieres trajín?
+rows:
+- type: columns
+  design:
+    num_xs: true
+    uppercase: false
+    underline: true
+  items:
+  - icon: rings-wedding
+    description: |
+      Diseñamos tu boda de principio a fin
+      {.h6 .underline}
+
+      Nos encargamos de cada detalle para que tengas la boda de tus sueños.
+  - icon: handshake-angle
+    description: |
+      Te acompañamos durante todo el proceso
+      {.h6 .underline}
+
+      Estamos contigo en cada paso para que tu experiencia sea sencilla y sin preocupaciones.
+  - icon: heart
+    description: |
+      Confianza plena
+      {.h6 .underline}
+
+      Nuestro compromiso es ofrecerte un servicio de calidad y que te sientas seguro y tranquilo en todo momento.
+  - icon: champagne-glasses
+    description: |
+      Disfrutarás de los momentos previos
+      {.h6 .underline}
+
+      Deja que nos ocupemos de los preparativos y dedica tu tiempo a disfrutar de la emoción previa al gran día.

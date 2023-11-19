@@ -1,0 +1,10 @@
+id: galeria
+title: Trajines gallery
+subtitle: What are our events like?
+description: |
+  Don't miss our photos and videos:
+
+  [btn Photos](/en/gallery/#photos)
+  [btn Videos](/en/gallery/#videos)
+more:
+  align: center

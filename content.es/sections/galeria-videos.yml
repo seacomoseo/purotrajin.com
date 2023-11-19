@@ -1,0 +1,27 @@
+title: Vídeos
+color: white
+bg: ''
+rows:
+- type: columns
+  design:
+    label: YouTube
+    licon: play
+    ratio: 9x16
+  items:
+  - link: https://youtu.be/rh9Ze_MG9oA
+    image: https://i.ytimg.com/vi/rh9Ze_MG9oA/hq720_2.jpg
+  - link: https://youtu.be/o9kIrXrGzKw
+    image: https://i.ytimg.com/vi/o9kIrXrGzKw/hq720_2.jpg
+  - link: https://youtu.be/TU04KUik5KU
+    image: https://i.ytimg.com/vi/TU04KUik5KU/hq720_2.jpg
+  - link: https://youtu.be/6Jke_6cqDok
+    image: https://i.ytimg.com/vi/6Jke_6cqDok/hq720_2.jpg
+  - link: https://youtu.be/rF27PKQr6D4
+    image: https://i.ytimg.com/vi/rF27PKQr6D4/hq720_2.jpg
+- type: columns
+  items:
+  - link: /
+    label: Inicio
+    more:
+      licon: house
+      button: main

@@ -1,0 +1,38 @@
+id: services
+title: Services
+subtitle: Do you want trajín?
+rows:
+- type: columns
+  design:
+    num: 2
+    uppercase: false
+    underline: true
+    align_y: center
+    ratio: 16x9
+    parallax: true
+  items:
+  - order: 2
+    bg: boda-chicas-puro-trajin-6.jpg
+  - title: Wedding Decoration
+    # subtitle: We design unique and personalized weddings
+    order: 1
+    description: |
+      We take care of creating and designing all the aesthetic and decorative part of a wedding.
+
+      We study and analyze the style that defines the couple to capture their personality through the decoration of their big day.
+
+      It is a service for couples looking for a wedding with charm, that surprises and represents them at every moment.
+    more:
+      align_xl: right
+      align: left
+  - order: 3
+    bg: trajinanta-evento-marinacampoy-472.jpg
+  - title: Integral service
+    # subtitle: We organize and coordinate every detail of your wedding.
+    order: 4
+    description: |
+      With this service we will accompany you throughout the process from start to finish. We will create all the decorative design and we will organize the suppliers that will be present during the wedding.
+
+      In addition, we will take care of coordinating your guests and the important moments of the big day. This service is for you not to worry at all times and just dedicate yourselves to enjoy your wedding.
+    more:
+      align: left

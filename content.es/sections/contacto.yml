@@ -1,0 +1,112 @@
+title: Contacto
+subtitle: ¿En qué podemos ayudarte?
+button: link
+size: sm
+rows:
+- type: contact
+  data:
+  - type: schedule
+    days: Lunes a Viernes
+    hours: 8:00 - 14:00 y 17:00 - 20:00
+  - type: br
+  - type: phone
+    label: 690 150 927
+  - type: whatsapp
+    label: 690 150 927
+  - type: mail
+    label: info@purotrajin.com
+    full: true
+    button: invert
+  - type: custom
+    link: https://www.instagram.com/purotrajin/
+    label: Instagram
+    icon: instagram
+    font_alt: true
+    button: main
+  - type: custom
+    link: https://www.facebook.com/purotrajin/
+    label: Facebook
+    icon: facebook-f
+    font_alt: true
+    button: main
+  - type: address
+    active: false
+    name: PuroTrajín Wedding Planner
+    streetAddress: Calle Luis de Gongora, 29, Atico, 30180 Bullas Murcia
+    postalCode: 30180
+    addressLocality: Bullas
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.6668520,38.0463010]}'
+  form:
+    fill_inputs: false
+    items:
+    # - type: description
+    #   name: |
+    #     **Datos de contacto**
+    #   full: true
+    - type: text
+      name: Nombre
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Mensaje
+      required: true
+
+    - type: description
+      name: |
+        [btn-main Cuestionario](#encuesta)
+
+        **4 preguntas claves para futuros trajinantes**
+        {.uppercase .underline #encuesta}
+      full: true
+    - type: description
+      name: |
+        **Cuando pensáis en vuestra boda, ¿pensáis en la decoración?**
+      full: true
+    - type: radio
+      name: Decoración
+      options:
+      - option: Es en lo que mas nos fijamos
+      - option: No es relevante para nosotros
+      - option: No hay trajín sin una buena decoración
+    - type: description
+      name: |
+        **¿Que parte de la boda es la mas importante para vosotros?**
+      full: true
+    - type: radio
+      name: Importancia
+      options:
+      - option: Ceremonia
+      - option: Celebración
+      - option: Fiesta
+      - option: Ceremonia y Celebración
+    - type: description
+      name: |
+        **¿Qué presupuesto estaríais dispuestos a invertir en decoración y fiesta?**
+      full: true
+    - type: radio
+      name: Presupuesto
+      options:
+      - option: Entre 5.000 y 10.000 €
+      - option: Entre 10.000 y 20.000 €
+      - option: Entre 20.000 y 40.000 €
+      - option: Todo lo que sea necesario para montar un buen trajín
+    - type: description
+      name: |
+        **¿Como definiríais el estilo de PuroTrajín?**
+      full: true
+    - type: checkbox
+      name: Estilo
+      options:
+      - option: Informal y desenfadado
+      - option: Elegante
+      - option: Original y único
+  map:
+    active: false
+    link: https://g.page/r/CQrgNBs-RR8GEAI
+    iframe: ''
+    flip_x: false
+    divider: arrow-op

@@ -1,0 +1,10 @@
+id: galeria
+title: Galería de trajines
+subtitle: ¿Cómo son nuestros eventos?
+description: |
+  No te pierdas nuestras fotos y vídeos:
+
+  [btn Fotos](/galeria/#fotos)
+  [btn Vídeos](/galeria/#videos)
+more:
+  align: center

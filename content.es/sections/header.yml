@@ -1,0 +1,19 @@
+anchor: Wedding Planner, organización, diseño y decoración de bodas y eventos
+color: dark
+image: logo-animation.svg
+bg: wedding-planner.mp4
+description: |
+  Especializados en diseño y decoración de bodas y eventos únicos
+
+  **by Esperanza Gómez**
+
+  ¿Quieres trajín?
+  {.subtitle}
+
+  [btn icon-play Vídeo](https://youtu.be/ugBd4Kh8ADA)
+  [btn icon-plus Más](#principal)
+more:
+  image_min: 18
+  image_max: 18
+  opacity: 30
+  parallax: true

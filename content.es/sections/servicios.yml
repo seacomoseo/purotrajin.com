@@ -1,0 +1,38 @@
+id: servicios
+title: Servicios
+subtitle: ¿Quieres trajín?
+rows:
+- type: columns
+  design:
+    num: 2
+    uppercase: false
+    underline: true
+    align_y: center
+    ratio: 16x9
+    parallax: true
+  items:
+  - order: 2
+    bg: boda-chicas-puro-trajin-6.jpg
+  - title: Decoración de Bodas
+    # subtitle: Diseñamos bodas únicas y personalizadas
+    order: 1
+    description: |
+      Nos encargamos de crear y diseñar toda la parte estética y decorativa de una boda.
+
+      Estudiamos y analizamos el estilo que define a la pareja para conseguir plasmar su personalidad a través de la decoración de su gran día.
+
+      Es un servicios destinado a parejas que buscan una boda con encanto, que sorprenda y que les represente en cada momento.
+    more:
+      align_xl: right
+      align: left
+  - order: 3
+    bg: trajinanta-evento-marinacampoy-472.jpg
+  - title: Servicio integral
+    # subtitle: Organizamos y coordinamos cada detalle de vuestra boda
+    order: 4
+    description: |
+      Con este servicio os acompañaremos en todo el proceso de principio a fin. Crearemos todo el diseño decorativo y organizaremos a los proveedores que estén presentes en el desarrollo de la boda.
+
+      Además, nos encargaremos de coordinar a vuestros invitados y los momentos señalados del gran día. Este servicio es para despreocuparos en todo momento y solo dedicaros a disfrutar de vuestra boda.
+    more:
+      align: left

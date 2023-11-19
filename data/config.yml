@@ -1,0 +1,44 @@
+title: PuroTrajín
+description: Especializados en diseño y decoración de bodas y eventos únicos by Esperanza Gómez
+logo: logo-animation.svg
+legal_name: Esperanza Gomez Espín
+legal_dni: 77724726D
+legal_email: info@purotrajin.com
+legal_location: Calle Luis de Gongora, 29, Atico, 30180 Bullas Murcia
+country: España
+location_type:
+- Organization
+alternate_name:
+- Puro Trajín
+price_range: ''
+google_analytics: G-6ZHRF1VS9W
+google_site_verification: ''
+google_file_verification: google7467d923cbb3eb4c.html
+disqus: ''
+cookies_legal: false
+analytics_pagespeed: true
+process_all_images: false
+cms: true
+cms_editorial_workflow: false
+development: false
+custom_code:
+  html_head:
+    code: ''
+    lang: html
+  html_body:
+    code: ''
+    lang: html
+  css:
+    code: ''
+  js:
+    code: ''
+    lang: javascript
+social:
+- link: https://www.instagram.com/purotrajin/
+- link: https://www.facebook.com/purotrajin/
+- link: https://www.bodas.net/food-truck-y-mesas-dulces/purotrajin--e166897
+  icon: bodas-net
+- link: https://g.page/r/CQrgNBs-RR8GEAI
+- link: https://www.youtube.com/@purotrajin
+en:
+  description: Specializing in design and decoration of weddings and unique events · by Esperanza Gómez

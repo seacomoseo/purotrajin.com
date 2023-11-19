@@ -1,0 +1,71 @@
+icons:
+  type: thin
+  emojis: ''
+  emojis_default: false
+fonts:
+  google: false
+  base:
+    family: Didot # Comfortaa
+    weight: 300
+    strong: 700
+    italic: false
+    line-height: 1.25
+  cursive:
+    family: Halimun # Dancing Script
+    weight: 400
+    strong: 0
+    italic: false
+    line-height: 1.25
+    top: 0
+  title:
+    family: HelloGaleriaSans # Comfortaa
+    weight: 300
+    strong: 0
+    italic: false
+    line-height: 1.25
+    top: 0
+  blockquote_cursive: false
+colors:
+  main:
+    color: '#6d1d1d'
+    light: '#e9ceaa'
+    dark: '#fff'
+    contrast: all
+  alt:
+    color: '#c6d2c1'
+    light: '#fff'
+    dark: '#93a39b'
+    contrast: all
+  link:
+    color: '#e9ceaa'
+    light: '#fff'
+    dark: '#bf9575'
+    contrast: all
+  base:
+    white: '#fff'
+    light: '#f2f0eb'
+    grey: '#767676'
+    dark: '#333333'
+    black: '#000'
+rounded:
+  radius: 1.33
+  chamfer: true
+buttons:
+  sides_round: false
+  icon_circle: false
+  deep: true
+  outline: true
+  font_base: false
+shadow:
+  left: 0
+  top: 0.15
+  blur: 0
+  color: black
+  opacity: 0.15
+lightbox_overlay:
+  opacity: 0.8
+  color: black
+performance:
+  showup: true
+  parallax: true
+  srcsetx2: true

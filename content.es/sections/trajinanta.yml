@@ -1,0 +1,25 @@
+id: trajinanta
+title: La Trajinanta
+subtitle: que está detrás
+bg: trajinanta-2.jpg
+rows:
+- type: columns
+  design:
+    num: 2
+    uppercase: false
+    underline: true
+    align_y: center
+    ratio: 16x9
+  items:
+  - order: 2
+    image: trajinanta.jpg
+  - order: 1
+    description: |
+      Mi nombre es Esperanza, y como siempre digo, soy una trajinanta de nacimiento, que mueve cielo y tierra hasta conseguir el trajín perfecto.
+
+      Me diplome en ciencias empresariales cuando aún no sabía que existía el mundo creativo, hasta que empecé a descubrir el mundo de los eventos y la decoración. He ido formándome en diferentes cursos de experto en organización y más concretamente en decoración para eventos.
+
+      Me defino como una persona constante, sensible e intensa a la vez, que empatiza y sabe captar la esencia de las personas, manteniéndome fiel a mí misma y a mi estilo.
+    more:
+      align_xl: right
+      align: left
