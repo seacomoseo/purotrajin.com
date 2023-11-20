@@ -1,8 +1,4 @@
 
-.sign {
-  {{ partial "functions/svg-to-css" (dict "path" "/assets/media/sign-circle.svg" "Site" .Site) }}
-}
-
 // Header
 
 #body-home #header,
