@@ -6,6 +6,7 @@ params:
   git_url: https://gitlab.com/purotrajin/purotrajin.com
   netlify_name: purotrajin
   netlify_id: a63fd53f-67f0-4b0d-a049-c5d149084b7c
+  hook: NjNlNzczMzUxMGFkZmYxNWZjMTgwZTQ3
   drive_link: https://drive.google.com/file/d/1SsWkE8eIJwkhmsZNNsJ5WyUXCzD7ST4E
   drive_mails: espejumping@gmail.com
 defaultContentLanguage: es
