@@ -4,20 +4,27 @@ bg: ''
 rows:
 - type: columns
   design:
+    num: 3
     label: YouTube
     licon: play
     ratio: 9x16
   items:
-  - link: https://youtu.be/rh9Ze_MG9oA
-    image: https://i.ytimg.com/vi/rh9Ze_MG9oA/hq720_2.jpg
+  # - link: https://youtu.be/rh9Ze_MG9oA
+  #   image: https://i.ytimg.com/vi/rh9Ze_MG9oA/hq720_2.jpg
+  - link: https://youtu.be/tbPVslGjrq4
+    image: https://i.ytimg.com/vi/tbPVslGjrq4/hq720_2.jpg
+  - link: https://youtu.be/7u0a-fCp7Tw
+    image: https://i.ytimg.com/vi/7u0a-fCp7Tw/hq720_2.jpg
+  - link: https://youtu.be/k0kiKFIcvaM
+    image: https://i.ytimg.com/vi/k0kiKFIcvaM/hq720_2.jpg
   - link: https://youtu.be/o9kIrXrGzKw
     image: https://i.ytimg.com/vi/o9kIrXrGzKw/hq720_2.jpg
   - link: https://youtu.be/TU04KUik5KU
     image: https://i.ytimg.com/vi/TU04KUik5KU/hq720_2.jpg
   - link: https://youtu.be/6Jke_6cqDok
     image: https://i.ytimg.com/vi/6Jke_6cqDok/hq720_2.jpg
-  - link: https://youtu.be/rF27PKQr6D4
-    image: https://i.ytimg.com/vi/rF27PKQr6D4/hq720_2.jpg
+  # - link: https://youtu.be/rF27PKQr6D4
+  #   image: https://i.ytimg.com/vi/rF27PKQr6D4/hq720_2.jpg
 - type: columns
   items:
   - link: /en/

@@ -12,43 +12,71 @@ rows:
     cover: true
     grayscale: false
   images:
+  # - trajinanta-evento-marinacampoy-0472.jpg
   - boda-charo-agustin.jpg
   - boda-chicas-puro-trajin-1.jpg
   - boda-chicas-puro-trajin-2.jpg
-  - boda-chicas-puro-trajin-3.jpg
+  # - boda-chicas-puro-trajin-3.jpg
   - boda-chicas-puro-trajin-4.jpg
-  - boda-chicas-puro-trajin-5.jpg
-  - boda-chicas-puro-trajin-6.jpg
+  # - boda-chicas-puro-trajin-5.jpg
+  # - boda-chicas-puro-trajin-6.jpg
   - boda-chicas-puro-trajin-7.jpg
   - boda-chicas-puro-trajin-8.jpg
   - boda-chicas-puro-trajin-9.jpg
+  - boda-cruz-y-raul-0690.jpg
+  - boda-cruz-y-raul-0901.jpg
+  - boda-cruz-y-raul-0927.jpg
+  - boda-cruz-y-raul-0935.jpg
+  - boda-cruz-y-raul-1308.jpg
   - boda-mado-3.jpg
-  - boda-puro-trajin-1.jpg
-  - boda-puro-trajin-3.jpg
+  - boda-moratalla-008.jpg
+  - boda-moratalla-015.jpg
+  - boda-moratalla-024.jpg
+  - boda-otra-004.jpg
+  - boda-otra-006.jpg
+  - boda-otra-009.jpg
+  - boda-otra-010.jpg
+  - boda-otra-011.jpg
+  - boda-otra-013.jpg
+  - boda-otra-014.jpg
+  - boda-pedro-marin-004.jpg
+  - boda-pedro-marin-010.jpg
+  - boda-pedro-marin-030.jpg
+  - boda-puro-trajin-01.jpg
+  - boda-puro-trajin-03.jpg
   - boda-puro-trajin-10.jpg
   - decoracion-boda-perros-puro-trajin-1.jpg
   - decoracion-boda-perros-puro-trajin-2.jpg
   - decoracion-boda-puro-trajin-1.jpg
-  - decoracion-boda-puro-trajin-2.jpg
-  - decoracion-bodas-castillico-puro-trajin-1.jpg
-  - decoracion-bodas-castillico-puro-trajin-30.jpg
-  - decoracion-bodas-castillico-puro-trajin-62.jpg
-  - decoracion-bodas-castillico-puro-trajin-92.jpg
+  # - decoracion-boda-puro-trajin-2.jpg
+  - decoracion-bodas-castillico-puro-trajin-001.jpg
+  - decoracion-bodas-castillico-puro-trajin-030.jpg
+  - decoracion-bodas-castillico-puro-trajin-062.jpg
+  - decoracion-bodas-castillico-puro-trajin-092.jpg
   - decoracion-bodas-castillico-puro-trajin-101.jpg
   - decoracion-bodas-castillico-puro-trajin-131.jpg
   - decoracion-bodas-castillico-puro-trajin.jpg
   - decoracion-entrada-iglesia.jpg
-  - evento-marinacampoy-936.jpg
-  - evento-marinacampoy-943.jpg
+  - evento-marinacampoy-0004.jpg
+  - evento-marinacampoy-0064.jpg
+  - evento-marinacampoy-0289.jpg
+  - evento-marinacampoy-0387.jpg
+  - evento-marinacampoy-0438.jpg
+  - evento-marinacampoy-0705.jpg
+  - evento-marinacampoy-0710.jpg
+  - evento-marinacampoy-0716.jpg
+  - evento-marinacampoy-0936.jpg
+  - evento-marinacampoy-0943.jpg
   - evento-marinacampoy-1052.jpg
   - evento-marinacampoy-1072.jpg
   - evento-marinacampoy-1124.jpg
   - evento-marinacampoy-1135.jpg
   - evento-marinacampoy-1207.jpg
   - fondo.jpg
-  - tarta-bodas.jpg
+  # - tarta-bodas.jpg
   - trajinanta-2.jpg
   - trajinanta-decoracion-bodas-castillico-puro-trajin-72.jpg
-  - trajinanta-evento-marinacampoy-472.jpg
-  - trajinanta-evento-marinacampoy-1047.jpg
+  # - trajinanta-evento-marinacampoy-1047.jpg
   - trajinanta-evento-marinacampoy-1172.jpg
+  # - trajinanta.jpg
+
